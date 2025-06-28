@@ -1,4 +1,7 @@
-## Hi there 👋
+### 🔥 GitHub Streak Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rosleinrose&theme=dark)](https://git.io/streak-stats)
+
 
 <!--
 **rosleinrose/rosleinrose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
